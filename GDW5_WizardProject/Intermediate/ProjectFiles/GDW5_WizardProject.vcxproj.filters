@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GDW5_WizardProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GDW5_WizardProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GDW5_WizardProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GDW5_WizardProject">
+      <UniqueIdentifier>{8EFD029A-77B6-39DE-900D-A67F6D56EB57}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GDW5_WizardProject\GDW5_WizardProject.Build.cs">
+      <Filter>Source\GDW5_WizardProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GDW5_WizardProject\GDW5_WizardProject.cpp">
+      <Filter>Source\GDW5_WizardProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GDW5_WizardProject\GDW5_WizardProject.h">
+      <Filter>Source\GDW5_WizardProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GDW5_WizardProject\MyCharacter1.cpp">
+      <Filter>Source\GDW5_WizardProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GDW5_WizardProject\MyCharacter1.h">
+      <Filter>Source\GDW5_WizardProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GDW5_WizardProject\MyClass1.cpp">
+      <Filter>Source\GDW5_WizardProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GDW5_WizardProject\MyClass1.h">
+      <Filter>Source\GDW5_WizardProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

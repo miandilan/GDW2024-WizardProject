@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GDW5_WizardProject",
+			"Path": "..\\Source\\GDW5_WizardProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GDW5_WizardProjectEditor",
+			"Path": "..\\Source\\GDW5_WizardProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
