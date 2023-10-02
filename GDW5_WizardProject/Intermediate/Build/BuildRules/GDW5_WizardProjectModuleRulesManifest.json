@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\M\\Documents\\Unreal Projects\\GDWTEST\\GDW2024-WizardProject\\GDW5_WizardProject\\Source\\GDW5_WizardProject\\GDW5_WizardProject.Build.cs",
-		"C:\\Users\\M\\Documents\\Unreal Projects\\GDWTEST\\GDW2024-WizardProject\\GDW5_WizardProject\\Source\\GDW5_WizardProject.Target.cs",
-		"C:\\Users\\M\\Documents\\Unreal Projects\\GDWTEST\\GDW2024-WizardProject\\GDW5_WizardProject\\Source\\GDW5_WizardProjectEditor.Target.cs"
+		"D:\\GDW 5\\Fall2023Project\\GDW2024-WizardProject\\GDW5_WizardProject\\Source\\GDW5_WizardProject\\GDW5_WizardProject.Build.cs",
+		"D:\\GDW 5\\Fall2023Project\\GDW2024-WizardProject\\GDW5_WizardProject\\Source\\GDW5_WizardProject.Target.cs",
+		"D:\\GDW 5\\Fall2023Project\\GDW2024-WizardProject\\GDW5_WizardProject\\Source\\GDW5_WizardProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.0"
 }

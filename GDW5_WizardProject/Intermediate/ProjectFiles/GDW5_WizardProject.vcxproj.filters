@@ -52,5 +52,23 @@
     <ClInclude Include="..\..\Source\GDW5_WizardProject\MyClass1.h">
       <Filter>Source\GDW5_WizardProject</Filter>
     </ClInclude>
+    <Filter Include="Source\GDW5_WizardProject\Private">
+      <UniqueIdentifier>{0B204479-0511-329D-B0FE-D3D21EA547E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GDW5_WizardProject\Private\PlayerClasses">
+      <UniqueIdentifier>{F1B4FC69-30EC-3F39-89C9-93CCE880EA92}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GDW5_WizardProject\Private\PlayerClasses\PlayerControl.cpp">
+      <Filter>Source\GDW5_WizardProject\Private\PlayerClasses</Filter>
+    </ClCompile>
+    <Filter Include="Source\GDW5_WizardProject\Public">
+      <UniqueIdentifier>{DD97A19B-697A-30E5-A581-8B2803A10D24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GDW5_WizardProject\Public\PlayerClasses">
+      <UniqueIdentifier>{FD4B78F5-B161-3DD5-A5D6-311E3491D41E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GDW5_WizardProject\Public\PlayerClasses\PlayerControl.h">
+      <Filter>Source\GDW5_WizardProject\Public\PlayerClasses</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

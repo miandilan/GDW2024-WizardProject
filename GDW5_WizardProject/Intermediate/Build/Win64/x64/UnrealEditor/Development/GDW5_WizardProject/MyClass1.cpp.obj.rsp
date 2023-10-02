@@ -1,11 +1,11 @@
-"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW5_WizardProject\Source\GDW5_WizardProject\MyClass1.cpp"
-/FI"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\GDW5_WizardProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW5_WizardProject\Definitions.GDW5_WizardProject.h"
-/Yu"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\GDW5_WizardProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\GDW5_WizardProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW5_WizardProject\MyClass1.cpp.obj"
-/sourceDependencies "C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW5_WizardProject\MyClass1.cpp.dep.json"
-@"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW5_WizardProject\GDW5_WizardProject.Shared.rsp"
+"D:\GDW 5\Fall2023Project\GDW2024-WizardProject\GDW5_WizardProject\Source\GDW5_WizardProject\MyClass1.cpp"
+/FI"D:\GDW 5\Fall2023Project\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\GDW5_WizardProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"D:\GDW 5\Fall2023Project\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW5_WizardProject\Definitions.GDW5_WizardProject.h"
+/Yu"D:\GDW 5\Fall2023Project\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\GDW5_WizardProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"D:\GDW 5\Fall2023Project\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\GDW5_WizardProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"D:\GDW 5\Fall2023Project\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW5_WizardProject\MyClass1.cpp.obj"
+/sourceDependencies "D:\GDW 5\Fall2023Project\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW5_WizardProject\MyClass1.cpp.dep.json"
+@"D:\GDW 5\Fall2023Project\GDW2024-WizardProject\GDW5_WizardProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW5_WizardProject\GDW5_WizardProject.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

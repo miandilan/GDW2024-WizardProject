@@ -30,7 +30,7 @@
     <LibraryWPath />
     <SourcePath />
     <ExcludePath />
-    <DefaultSystemIncludePaths>C:\Users\M\Documents\University\VisualStudio\VS\VC\Tools\MSVC\14.37.32822\INCLUDE;D:\Windows Kits\10\include\10.0.22621.0\ucrt;D:\Windows Kits\10\include\10.0.22621.0\shared;D:\Windows Kits\10\include\10.0.22621.0\um;D:\Windows Kits\10\include\10.0.22621.0\winrt;</DefaultSystemIncludePaths>
+    <DefaultSystemIncludePaths>C:\Users\M\Documents\University\VisualStudio\VS\VC\Tools\MSVC\14.36.32532\INCLUDE;D:\Windows Kits\10\include\10.0.22621.0\ucrt;D:\Windows Kits\10\include\10.0.22621.0\shared;D:\Windows Kits\10\include\10.0.22621.0\um;D:\Windows Kits\10\include\10.0.22621.0\winrt;</DefaultSystemIncludePaths>
   </PropertyGroup>
   <ImportGroup Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />

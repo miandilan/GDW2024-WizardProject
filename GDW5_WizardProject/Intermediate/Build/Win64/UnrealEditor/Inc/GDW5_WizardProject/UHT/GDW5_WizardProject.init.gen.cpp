@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeGDW5_WizardProject_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x03C9A1A1,
-				0xF8A1DD01,
+				0x9D3988D4,
+				0x53959459,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_GDW5_WizardProject.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_GDW5_WizardProject.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_GDW5_WizardProject(Z_Construct_UPackage__Script_GDW5_WizardProject, TEXT("/Script/GDW5_WizardProject"), Z_Registration_Info_UPackage__Script_GDW5_WizardProject, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x03C9A1A1, 0xF8A1DD01));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_GDW5_WizardProject(Z_Construct_UPackage__Script_GDW5_WizardProject, TEXT("/Script/GDW5_WizardProject"), Z_Registration_Info_UPackage__Script_GDW5_WizardProject, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x9D3988D4, 0x53959459));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
