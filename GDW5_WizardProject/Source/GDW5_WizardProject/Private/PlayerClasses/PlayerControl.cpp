@@ -4,58 +4,50 @@
 #include "PlayerClasses/PlayerControl.h"
 #include "GameFramework/Actor.h"
 #include "Components/TextRenderComponent.h"
-#include "AttackCombo.generated.h"
 
-UCLASS()
-class GDW5_WizardProject AAttackCombo : public AActor
-{
-	GENERATED_BODY)()
-
-public:
-	UPROPERTY(VisibleAnywhere)
-	UTextRenderComponent* ComboText;
-
-	UPROPERTY(VisibleAnywhere)
-	USceneComponent* TargetObject;
-
-	int32 ComboCount;
-
-protected:
-	virtual void BeginPlay() override;
-
-public: 
-	void IncreaseCombo();
-	void ResetCombo();
-	void UpdateComboText():
-};
-
-
-// Sets default values
 APlayerControl::APlayerControl()
 {
- 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
-
+	//Initialize combo vars
+	ComboCount = 0;
+	ComboTimer = 0.0f;
 }
 
-// Called when the game starts or when spawned
-void APlayerControl::BeginPlay()
+void APlayerControl::ResetCombo()
 {
-	Super::BeginPlay();
-	
+	ComboCount = 0;
 }
 
-// Called every frame
-void APlayerControl::Tick(float DeltaTime)
+void APlayerControl::ExecuteComboAttack()
 {
-	Super::Tick(DeltaTime);
+	//The switch case below causes different types of attacks to occur depending on the combo count.
 
+	switch (ComboCount)
+	{
+	    case 1:
+			//First attack
+			break;
+		case 2: 
+			//Second attack
+			break;
+		default:
+			//Handle invalid combo state or loop back to the 1st attack
+			ResetCombo();
+			//Execute the 1st attack
+			break;
+	}
 }
 
-// Called to bind functionality to input
 void APlayerControl::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+	//Bind an input action to trigger combo attacks
+	PlayerInputComponent->BindAction("ComboAttack", IE_Pressed, this, &APlayerControl::ComboAttackPressed);
 }
 
+void APlayerControl::ComboAttackPressed() 
+{
+	//Increment the combo count then execute combo attack
+	ComboCount++;
+	ExecuteComboAttack();
+}
