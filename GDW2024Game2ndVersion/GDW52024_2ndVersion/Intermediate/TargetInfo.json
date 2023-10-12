@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GDW52024_2ndVersion",
+			"Path": "..\\Source\\GDW52024_2ndVersion.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GDW52024_2ndVersionEditor",
+			"Path": "..\\Source\\GDW52024_2ndVersionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
