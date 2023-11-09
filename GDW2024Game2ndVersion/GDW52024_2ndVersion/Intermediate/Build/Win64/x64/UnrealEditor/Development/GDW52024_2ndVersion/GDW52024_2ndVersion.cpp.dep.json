@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\m\\documents\\unreal projects\\gdwtest\\gdw2024-wizardproject\\gdw2024game2ndversion\\gdw52024_2ndversion\\source\\gdw52024_2ndversion\\gdw52024_2ndversion.cpp",
+        "Source": "c:\\users\\ethan\\unity\\gdw2024-wizardproject\\gdw2024game2ndversion\\gdw52024_2ndversion\\source\\gdw52024_2ndversion\\gdw52024_2ndversion.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\m\\documents\\unreal projects\\gdwtest\\gdw2024-wizardproject\\gdw2024game2ndversion\\gdw52024_2ndversion\\intermediate\\build\\win64\\x64\\gdw52024_2ndversioneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\ethan\\unity\\gdw2024-wizardproject\\gdw2024game2ndversion\\gdw52024_2ndversion\\intermediate\\build\\win64\\x64\\gdw52024_2ndversioneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\m\\documents\\unreal projects\\gdwtest\\gdw2024-wizardproject\\gdw2024game2ndversion\\gdw52024_2ndversion\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gdw52024_2ndversion\\definitions.gdw52024_2ndversion.h",
-            "c:\\users\\m\\documents\\unreal projects\\gdwtest\\gdw2024-wizardproject\\gdw2024game2ndversion\\gdw52024_2ndversion\\source\\gdw52024_2ndversion\\gdw52024_2ndversion.h"
+            "c:\\users\\ethan\\unity\\gdw2024-wizardproject\\gdw2024game2ndversion\\gdw52024_2ndversion\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gdw52024_2ndversion\\definitions.gdw52024_2ndversion.h",
+            "c:\\users\\ethan\\unity\\gdw2024-wizardproject\\gdw2024game2ndversion\\gdw52024_2ndversion\\source\\gdw52024_2ndversion\\gdw52024_2ndversion.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

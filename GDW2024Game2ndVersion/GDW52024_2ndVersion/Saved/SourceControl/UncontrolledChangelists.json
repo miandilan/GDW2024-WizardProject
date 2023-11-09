@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/Fire_VFX/Game/m-overflame_Inst_EditorSphere_BaseColor.uasset",
+				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/Fire_VFX/Game/m-overflame_Inst_EditorSphere_Emissive.uasset",
+				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/Fire_VFX/Game/m-overflame_EditorSphere_BaseColor.uasset",
+				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/Fire_VFX/Game/m-overflame_EditorSphere_Emissive.uasset",
+				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/Fire_VFX/T_Fire_Tiled_D.uasset",
+				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/AreaTest.umap",
+				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Materials/Fire_VFX/Game/Overflame_1.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/BP_Player.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Framework/BP_GameMode.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/InputActions/IA_Look.uasset",
