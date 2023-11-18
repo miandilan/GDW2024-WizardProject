@@ -10,6 +10,20 @@
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Levels/Marketplace.umap",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/UI/OptionsMenu.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/UI/MainMenu.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Tpose/Ch39_1001_Diffuse.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Tpose/Ch39_1001_Glossiness.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Tpose/Ch39_1001_Normal.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Tpose/Ch39_1001_Specular.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Tpose/Ch39_Body.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Tpose/Ch39_nonPBR.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Tpose/Ch39_nonPBR_PhysicsAsset.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Tpose/Ch39_nonPBR_Skeleton.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Punch/Cross_Punch_mixamo_com.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Run/Fast_Run_mixamo_com.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Idle/Idle_mixamo_com.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Characters/PlayerPlaceholders/Kick/Mma_Kick_mixamo_com.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Mixamo_Player.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Mixamo_BS.uasset",
 				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/BP_Player.uasset"
 			]
 		}
