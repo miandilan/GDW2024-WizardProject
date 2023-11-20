@@ -32,7 +32,6 @@
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/DialogueSense2.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/DialogueSense3.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/Gormack_Sound3_Cue.uasset",
-				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/GormackSound1.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/GormackSound2.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/SFX/Tweet_BP.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/SFX/GormackBirdTweet.uasset",
@@ -41,6 +40,10 @@
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/GormackGreeting.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/SFX/MetalClank_BP.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/SFX/Fire_BP.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/UI/BP_PauseMenu.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/InputActions/IA_Pause.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/IA_Controller.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/GormackSound1.uasset",
 				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/BP_Player.uasset"
 			]
 		}
