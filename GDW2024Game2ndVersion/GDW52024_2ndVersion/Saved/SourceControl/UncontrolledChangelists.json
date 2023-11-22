@@ -43,7 +43,6 @@
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/UI/BP_PauseMenu.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/InputActions/IA_Pause.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/IA_Controller.uasset",
-				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/EnemyDeath.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/SFX/Whistling_BP.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/SFX/Whistling.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/SFX/Guitar.uasset",
@@ -55,6 +54,9 @@
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/Enemy_HealthBar.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/WP_Health.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/NPC_Type2.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/BlankNPC.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/NiceDay.uasset",
+				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Enemies/EnemyDeath.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/SFX/Guitar_BP.uasset",
 				"D:/GDW 5/Fall2023Project/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/Dialogue/GormackSound1.uasset",
 				"C:/Users/Ethan/Unity/GDW2024-WizardProject/GDW2024Game2ndVersion/GDW52024_2ndVersion/Content/Blueprints/BP_Player.uasset"
