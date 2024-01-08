@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Ethan\\Unity\\GDW2024-WizardProject\\GDW2024Game2ndVersion\\GDW52024_2ndVersion\\Source\\GDW52024_2ndVersion\\GDW52024_2ndVersion.Build.cs",
-		"C:\\Users\\Ethan\\Unity\\GDW2024-WizardProject\\GDW2024Game2ndVersion\\GDW52024_2ndVersion\\Source\\GDW52024_2ndVersion.Target.cs",
-		"C:\\Users\\Ethan\\Unity\\GDW2024-WizardProject\\GDW2024Game2ndVersion\\GDW52024_2ndVersion\\Source\\GDW52024_2ndVersionEditor.Target.cs"
+		"C:\\Users\\M\\Documents\\Unreal Projects\\GDWTEST\\GDW2024-WizardProject\\GDW2024Game2ndVersion\\GDW52024_2ndVersion\\Source\\GDW52024_2ndVersion\\GDW52024_2ndVersion.Build.cs",
+		"C:\\Users\\M\\Documents\\Unreal Projects\\GDWTEST\\GDW2024-WizardProject\\GDW2024Game2ndVersion\\GDW52024_2ndVersion\\Source\\GDW52024_2ndVersion.Target.cs",
+		"C:\\Users\\M\\Documents\\Unreal Projects\\GDWTEST\\GDW2024-WizardProject\\GDW2024Game2ndVersion\\GDW52024_2ndVersion\\Source\\GDW52024_2ndVersionEditor.Target.cs"
 	],
-	"EngineVersion": "5.3.1"
+	"EngineVersion": "5.3.2"
 }

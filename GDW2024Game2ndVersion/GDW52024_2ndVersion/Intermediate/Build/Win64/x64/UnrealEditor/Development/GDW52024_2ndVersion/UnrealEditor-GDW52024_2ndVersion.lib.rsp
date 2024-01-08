@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-GDW52024_2ndVersion.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Ethan\Unity\GDW2024-WizardProject\GDW2024Game2ndVersion\GDW52024_2ndVersion\Intermediate\Build\Win64\x64\GDW52024_2ndVersionEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\Users\Ethan\Unity\GDW2024-WizardProject\GDW2024Game2ndVersion\GDW52024_2ndVersion\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW52024_2ndVersion\GDW52024_2ndVersion.cpp.obj"
-"C:\Users\Ethan\Unity\GDW2024-WizardProject\GDW2024Game2ndVersion\GDW52024_2ndVersion\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW52024_2ndVersion\Default.rc2.res"
-/OUT:"C:\Users\Ethan\Unity\GDW2024-WizardProject\GDW2024Game2ndVersion\GDW52024_2ndVersion\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW52024_2ndVersion\UnrealEditor-GDW52024_2ndVersion.lib"
+"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW2024Game2ndVersion\GDW52024_2ndVersion\Intermediate\Build\Win64\x64\GDW52024_2ndVersionEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW2024Game2ndVersion\GDW52024_2ndVersion\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW52024_2ndVersion\GDW52024_2ndVersion.cpp.obj"
+"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW2024Game2ndVersion\GDW52024_2ndVersion\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW52024_2ndVersion\Default.rc2.res"
+/OUT:"C:\Users\M\Documents\Unreal Projects\GDWTEST\GDW2024-WizardProject\GDW2024Game2ndVersion\GDW52024_2ndVersion\Intermediate\Build\Win64\x64\UnrealEditor\Development\GDW52024_2ndVersion\UnrealEditor-GDW52024_2ndVersion.lib"
